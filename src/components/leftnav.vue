@@ -39,14 +39,14 @@ export default {
         {
           menuid: 1,
           icon: 'li-icon-xiangmuguanli',
-          menuname: '基础管理',
+          menuname: '基础业务',
           hasThird: null,
           url: null,
           menus: [
             {
               menuid: 2,
               icon: 'icon-cat-skuQuery',
-              menuname: '商品管理',
+              menuname: '订单管理',
               hasThird: 'N',
               url: 'goods/Goods',
               menus: null
